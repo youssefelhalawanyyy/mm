@@ -13,7 +13,7 @@ const NO_MESSAGES = [
   "server rejected your response 💀",
   "ana ha2olha tany...",
   "el button da mesh shaghal apparently",
-  "مفيش escape من هنا يا حبي",
+ 
 ];
 
 interface LoveGateProps {
