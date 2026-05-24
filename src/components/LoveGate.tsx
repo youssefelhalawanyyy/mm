@@ -89,7 +89,7 @@ export default function LoveGate({ onComplete }: LoveGateProps) {
                 whileHover={{ boxShadow: "0 0 40px rgba(244, 114, 182, 0.5)" }}
                 whileTap={{ scale: yesButtonSize * 0.95 }}
               >
-                Yes 💕
+                Yes 
               </motion.button>
 
               <motion.button
@@ -146,7 +146,7 @@ export default function LoveGate({ onComplete }: LoveGateProps) {
               <Heart className="w-16 h-16 md:w-20 md:h-20 text-accent mx-auto mb-4" fill="currentColor" />
             </motion.div>
             <p className="text-xl md:text-2xl font-bold gradient-text">
-              3arefek ya smart 💕
+              Aywaa kedaaaa 
             </p>
           </motion.div>
         )}
